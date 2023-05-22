@@ -1,0 +1,4 @@
+rootProject.name = 'kafka_hw6'
+include 'producer'
+include 'consumer'
+
